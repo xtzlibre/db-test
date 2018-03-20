@@ -1,0 +1,17 @@
+{
+  "p2sh": "34mWzEoNCMNNftDfJRW5xUvgtpxWRxLXEY",
+  "satoshis": 0,
+  "tezzies_from_satoshis": 0,
+  "utxos": [],
+  "wei": "100000000000000000000",
+  "tezzies_from_wei": 44857.2,
+  "ethDeposits": [
+    {
+      "transactionHash": "0xf05021ac7adfd654a389cda16d42f028fc3696a29c44012cb52f1dda574bce4a",
+      "wei": "100000000000000000000",
+      "tezzies": 44857.2
+    }
+  ],
+  "allocated_tezzies": 44857.2,
+  "tz_pkh": "tz1VRi4CpJdJtFJcFrefhPWX9V3xhzkwTNdu"
+}

@@ -1,0 +1,18 @@
+{
+  "p2sh": "3Q393GNwsewZTkuPzFCLGEAX3uVv4eBL1Y",
+  "satoshis": 1000000000,
+  "tezzies_from_satoshis": 59999.99999999999,
+  "utxos": [
+    {
+      "txId": "3df4df9f01d9d1126f7d2ea2632bf600a13a199fafe20fcd2fcb9a32df0f8542",
+      "vout": 2,
+      "satoshis": 1000000000,
+      "tezzies": 59999.99999999999
+    }
+  ],
+  "wei": "0",
+  "tezzies_from_wei": 0,
+  "ethDeposits": [],
+  "allocated_tezzies": 29999.999999999996,
+  "tz_pkh": "tz1YjnhoqPnQ29dyXbTrFSJ4P33pqyRAUGPz"
+}
